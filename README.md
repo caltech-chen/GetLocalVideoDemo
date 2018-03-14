@@ -1,0 +1,5 @@
+# GetLocalVideoDemo
+
+获取本地视频，用RecycleView进行展示，若本地视频增加或减少，所展示的RecycleView的项也随之动态增加或减少
+
+加载视频信息采用Loader子类的CursorLoader 
